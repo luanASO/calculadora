@@ -9,7 +9,7 @@
 
 /* Adiciona a imagem do fundo do site */
 body {
-    background-image: url(/java\ wall.png);
+    background-image: url(/'java wall.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
